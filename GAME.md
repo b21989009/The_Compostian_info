@@ -13,6 +13,6 @@ Languages/tools: JavaScript, Three.js, WebGL2, GLSL, HTML, CSS.
 
 Team members: 
   Mehmet Giray Nacakcı
-  Eray Dindaş
-  Umut Can Günay
-  Ayberk Aygün
+  | Eray Dindaş
+  | Umut Can Günay
+  | Ayberk Aygün
