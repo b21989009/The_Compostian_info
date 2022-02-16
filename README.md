@@ -8,6 +8,8 @@ In this game, you need to vacuum Garbage Monsters who are attacking you, process
 
 Watch Trailer:  https://www.youtube.com/watch?v=m-YjmPihqI0
 
+Gameplay:  https://youtu.be/yefiU9FO3aI
+
 
 Languages/tools: JavaScript, Three.js, WebGL2, GLSL, HTML, CSS.
 
