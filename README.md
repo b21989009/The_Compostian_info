@@ -22,3 +22,12 @@ Team members:
 
 
 ![TheCompostian](https://user-images.githubusercontent.com/56702583/154808630-0821f442-3981-43f4-8cb6-d53a996a2e91.png)
+
+
+Environmental Impact: 
+
+  We would like to propose a solution to a major form of littering: landfills. Landfills are polluting the land, releasing toxins into food and water cycles, releasing methane into atmosphere.  
+
+  The player will be inspired to turn garbage into compost, and fertilize the soil, instead of intoxicating it.
+  
+  The player will also be able to empathize with waste collectors and their hazardous jobs, therefore will be motivated to recycle. 
