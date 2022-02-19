@@ -15,7 +15,7 @@ Languages/tools: JavaScript, Three.js, WebGL2, GLSL, HTML, CSS. For modelling: B
 
 
 Team members: 
-  Mehmet Giray Nacakcı
+  Mehmet Giray Nacakcı (Manager, developer)
   | Eray Dindaş
   | Umut Can Günay
   | Ayberk Aygün
