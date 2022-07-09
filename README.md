@@ -12,7 +12,7 @@ In the game, you need to vacuum Garbage Monsters who are attacking you, process 
 ## Gameplay:  https://youtu.be/yefiU9FO3aI
 
 
-Languages/tools: JavaScript, Three.js, WebGL2, GLSL, HTML, CSS. For modelling: Blender 3D.
+Languages/tools: JavaScript, Three.js, WebGL2, GLSL, HTML, CSS. For modelling: Blender 3D. Backend and hosting: SpringBoot on Heroku
 
 
 Team members: 
