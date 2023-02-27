@@ -5,7 +5,7 @@ Our game lets the player be a Compostian and fight the garbage monsters, exchang
 
 In the game, you need to vacuum Garbage Monsters who are attacking you, process them into Compost and feed it to Trees.
 
-# PLAY: https://thecompostian.herokuapp.com/
+# PLAY: https://compostian.azurewebsites.net/
 
 ## Watch Trailer:  https://www.youtube.com/watch?v=m-YjmPihqI0
 
