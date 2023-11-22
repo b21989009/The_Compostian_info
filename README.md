@@ -23,12 +23,17 @@ Languages/tools: JavaScript, Three.js, WebGL2, GLSL, HTML, CSS. For modelling: B
 
 Backend and hosting: SpringBoot (Java) deployed on Azure.
 
+<br/>
 
 Team members: 
-  Mehmet Giray Nacakcı (Leader)
-  | Eray Dindaş
-  | Umut Can Günay
-  | Ayberk Aygün
+
+  |  M Giray Nacakcı (Leader, developer, shader & geometry programming)
+  
+  |  Eray Dindaş (environment design, videos production)
+  
+  |  Umut Can Günay (idea, research, documentation)
+  
+  |  Ayberk Aygün (developer)
 
 <br/>
 
